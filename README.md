@@ -22,5 +22,5 @@ You can find your generated marker now in the images folder.
 ## Information
 - Vuforia only accepts 24 Bit images where the alpha channel is removed.
 This project does this alpha channel removal automatically.
-- If you want to change the used colors pallettes, you can simply adjust the user color array
-- Use the printed with from the console as the marker width in the online vuforia marker settings
+- If you want to change the used colors pallettes, you can simply adjust the used color array
+- Use the printed width from the console as the marker width in the online vuforia marker settings
